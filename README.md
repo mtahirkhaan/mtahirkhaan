@@ -1,9 +1,9 @@
 ### Hola.👋 This is Muhammad Tahir Khan.
 
-- 🔭 I’m currently working on some exciting projects of Machine Vision and Natural Language Processing.
-- 🌱 I’m currently learning TensorFlow for NLP.
+- 🔭 I’m currently pursuing my Masters in Computer Science.
+- 🌱 I’m currently learning Real Time Processing of Time Series Data.
 - 👯 I’m looking to collaborate on research in Machine Learning.
-- 🤔 I’m looking for help with .Net
+- 🤔 I have experience in Data Science and Analysis, and BIM-Robot Integration.
 - 💬 Ask me about use of Machine Vision Cameras and Python for computer vision.
 - 📫 How to reach me: [muhammadtahirkhaan](https://www.linkedin.com/in/muhammadtahirkhaan/)
 - 😄 Adjectives: Perceptive, Logical and Technical.
